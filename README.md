@@ -16,6 +16,9 @@
 * 2. Write a small description of which dataset you are trying to transform and create a schema for.
 * 3. Open a Pull Request (create a branch with an appropriate name) when you're finished
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CampaignLab/data-pipeline/blob/master/transformers)
+
+
 ### Formatting
 
 * We need to make sure we format similar fields between datasources in the same way.
